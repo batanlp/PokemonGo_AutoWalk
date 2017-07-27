@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx
+xmlns="http://www.topografix.com/GPX/1/1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+version="1.1" 
+creator="gpx-poi.com">
+
+<wpt lat="10.773937" lon="106.694133">
+      <time>2016-08-22T07:48:51Z</time>
+   </wpt>
+
+<wpt lat="10.773979" lon="106.694058">
+    <time>2016-08-22T07:48:53Z</time>
+</wpt>
+
+<wpt lat="10.774053" lon="106.693951">
+    <time>2016-08-22T07:48:55Z</time>
+</wpt>
+
+<wpt lat="10.774150" lon="106.693838">
+    <time>2016-08-22T07:48:57Z</time>
+</wpt>
+
+<wpt lat="10.774372" lon="106.693822">
+    <time>2016-08-22T07:48:59Z</time>
+</wpt>
+
+<wpt lat="10.774509" lon="106.693892">
+    <time>2016-08-22T07:49:01Z</time>
+</wpt>
+
+<wpt lat="10.774625" lon="106.693962">
+    <time>2016-08-22T07:49:03Z</time>
+</wpt>
+
+<wpt lat="10.774851" lon="106.694021">
+    <time>2016-08-22T07:49:05Z</time>
+</wpt>
+
+<wpt lat="10.775051" lon="106.693908">
+    <time>2016-08-22T07:49:07Z</time>
+</wpt>
+
+<wpt lat="10.775141" lon="106.693763">
+    <time>2016-08-22T07:49:09Z</time>
+</wpt>
+
+<wpt lat="10.775041" lon="106.693608">
+    <time>2016-08-22T07:49:11Z</time>
+</wpt>
+
+<wpt lat="10.774909" lon="106.693473">
+    <time>2016-08-22T07:49:13Z</time>
+</wpt>
+
+<wpt lat="10.774704" lon="106.693377">
+    <time>2016-08-22T07:49:15Z</time>
+</wpt>
+
+<wpt lat="10.774582" lon="106.693345">
+    <time>2016-08-22T07:49:17Z</time>
+</wpt>
+
+<wpt lat="10.774477" lon="106.693495">
+    <time>2016-08-22T07:49:19Z</time>
+</wpt>
+
+<wpt lat="10.774356" lon="106.693602">
+    <time>2016-08-22T07:49:21Z</time>
+</wpt>
+
+<wpt lat="10.774282" lon="106.693726">
+    <time>2016-08-22T07:49:23Z</time>
+</wpt>
+
+<wpt lat="10.774166" lon="106.693876">
+    <time>2016-08-22T07:49:25Z</time>
+</wpt>
+
+<wpt lat="10.774066" lon="106.693988">
+    <time>2016-08-22T07:49:27Z</time>
+</wpt>
+
+<wpt lat="10.774008" lon="106.694123">
+    <time>2016-08-22T07:49:29Z</time>
+</wpt>
+
+</gpx>

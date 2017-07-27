@@ -12,6 +12,9 @@
 		021F01121F29CBC400A0E37C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 021F01101F29CBC400A0E37C /* Main.storyboard */; };
 		021F01141F29CBC400A0E37C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 021F01131F29CBC400A0E37C /* Assets.xcassets */; };
 		021F01171F29CBC400A0E37C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 021F01151F29CBC400A0E37C /* LaunchScreen.storyboard */; };
+		021F01211F29CEDD00A0E37C /* Bachdang_River.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 021F011E1F29CEDD00A0E37C /* Bachdang_River.gpx */; };
+		021F01221F29CEDD00A0E37C /* LTR_Park.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 021F011F1F29CEDD00A0E37C /* LTR_Park.gpx */; };
+		021F01231F29CEDD00A0E37C /* TaoDan_Park.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 021F01201F29CEDD00A0E37C /* TaoDan_Park.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		021F01131F29CBC400A0E37C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		021F01161F29CBC400A0E37C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		021F01181F29CBC400A0E37C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		021F011E1F29CEDD00A0E37C /* Bachdang_River.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = Bachdang_River.gpx; path = RouteFiles/Bachdang_River.gpx; sourceTree = "<group>"; };
+		021F011F1F29CEDD00A0E37C /* LTR_Park.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = LTR_Park.gpx; path = RouteFiles/LTR_Park.gpx; sourceTree = "<group>"; };
+		021F01201F29CEDD00A0E37C /* TaoDan_Park.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = TaoDan_Park.gpx; path = RouteFiles/TaoDan_Park.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +44,9 @@
 		021F01001F29CBC300A0E37C = {
 			isa = PBXGroup;
 			children = (
+				021F011E1F29CEDD00A0E37C /* Bachdang_River.gpx */,
+				021F011F1F29CEDD00A0E37C /* LTR_Park.gpx */,
+				021F01201F29CEDD00A0E37C /* TaoDan_Park.gpx */,
 				021F010B1F29CBC400A0E37C /* Pokemongo_Autowalk */,
 				021F010A1F29CBC400A0E37C /* Products */,
 			);
@@ -98,6 +107,11 @@
 						CreatedOnToolsVersion = 8.3.1;
 						DevelopmentTeam = GHXBPJ7WWV;
 						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
@@ -126,6 +140,9 @@
 			files = (
 				021F01171F29CBC400A0E37C /* LaunchScreen.storyboard in Resources */,
 				021F01141F29CBC400A0E37C /* Assets.xcassets in Resources */,
+				021F01231F29CEDD00A0E37C /* TaoDan_Park.gpx in Resources */,
+				021F01221F29CEDD00A0E37C /* LTR_Park.gpx in Resources */,
+				021F01211F29CEDD00A0E37C /* Bachdang_River.gpx in Resources */,
 				021F01121F29CBC400A0E37C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

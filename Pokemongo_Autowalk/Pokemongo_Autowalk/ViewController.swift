@@ -9,6 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    let kURLScheme: String! = "com.googleusercontent.apps.848232511240-dmrj3gba506c9svge2p9gq35p1fg654p://"
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -20,6 +22,14 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    
+    @IBAction func btnStartClick(_ sender: Any) {
+        if #available(iOS 10.0, *) {
+            UIApplication.shared.open(NSURL(string: kURLScheme) as! URL, options: [:], completionHandler: nil)
+        } else {
+            UIApplication.shared.openURL(NSURL(string: kURLScheme) as! URL)
+        }
+    }
 
 }
 

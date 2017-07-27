@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx
+xmlns="http://www.topografix.com/GPX/1/1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+version="1.1" 
+creator="gpx-poi.com">
+<wpt lat="10.775378" lon="106.706053">
+      <time>2016-08-22T07:48:51Z</time>
+   </wpt>
+
+<wpt lat="10.775341" lon="106.706219">
+    <time>2016-08-22T07:48:53Z</time>
+</wpt>
+
+<wpt lat="10.775373" lon="106.706455">
+    <time>2016-08-22T07:48:55Z</time>
+</wpt>
+
+<wpt lat="10.775220" lon="106.706547">
+    <time>2016-08-22T07:48:57Z</time>
+</wpt>
+
+<wpt lat="10.775099" lon="106.706552">
+    <time>2016-08-22T07:48:59Z</time>
+</wpt>
+
+<wpt lat="10.774972" lon="106.706557">
+    <time>2016-08-22T07:49:01Z</time>
+</wpt>
+
+<wpt lat="10.774809" lon="106.706622">
+    <time>2016-08-22T07:49:03Z</time>
+</wpt>
+
+<wpt lat="10.774683" lon="106.706643">
+    <time>2016-08-22T07:49:05Z</time>
+</wpt>
+
+<wpt lat="10.774603" lon="106.706616">
+    <time>2016-08-22T07:49:07Z</time>
+</wpt>
+
+<wpt lat="10.774667" lon="106.706493">
+    <time>2016-08-22T07:49:09Z</time>
+</wpt>
+
+<wpt lat="10.774883" lon="106.706289">
+    <time>2016-08-22T07:49:11Z</time>
+</wpt>
+
+<wpt lat="10.775104" lon="106.706117">
+    <time>2016-08-22T07:49:13Z</time>
+</wpt>
+
+<wpt lat="10.775220" lon="106.706037">
+    <time>2016-08-22T07:49:15Z</time>
+</wpt>
+
+</gpx>
